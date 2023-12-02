@@ -1,8 +1,12 @@
 # Title: bessx/archive-hosts
 # Date: 02 December 2023 12:05:23 (UTC)
 #
-# This hosts file is a fix for the Cloudflare <~> Archive.is bug.
+# This hosts file is a fix for the Cloudflare <~> Archive.is bug
+# because archive.today and friends play dirty with DNS 
+# 
+# Fetch the latest version of this file: https://raw.githubusercontent.com/bessx/archive-hosts/main/hosts
+# Shortlink: https://bess.ai/hosts
+# Project home page: https://github.com/bessx/archive-hosts
 # ===============================================================
 
-# archive.today and friends play dirty with DNS 
 23.137.248.133 archive.today archive.fo archive.is archive.li archive.md archive.ph archive.vn
